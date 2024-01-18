@@ -22,7 +22,10 @@
     justify-content: center;
     gap:15px;
 }
-
+.search img{
+    width:20px;
+    height:20px;
+}
 .search input{
     font-size:20px;
     border:none;
